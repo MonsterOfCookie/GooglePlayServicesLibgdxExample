@@ -1,0 +1,4 @@
+include 'desktop', 'android', 'core', 'BaseGameUtils'
+// The following reference is in my home/.gradle/gradle.properties and points to the
+// project https://github.com/MonsterOfCookie/android-basic-samples
+project(':BaseGameUtils').projectDir = new File(GOOGLE_PLAY_HELPER_SDK)

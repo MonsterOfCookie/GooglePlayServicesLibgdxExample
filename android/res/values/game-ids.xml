@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+
+This file can be obtained from the Play console once you have created it and added the 5 minimum required achievements
+
+-->
+<resources>
+    <string name="app_id">*YOUR GAME ID FROM GMS IN PLAY CONSOLE</string>
+    <string name="package_name">com.supercookie.gms.example</string>
+    <string name="achievement_1">*THIS IS IN THE PLAY CONSOLE*</string>
+    <string name="leaderboard_1">*THIS IS IN THE PLAY CONSOLE*</string>
+</resources>
